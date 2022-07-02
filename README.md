@@ -17,4 +17,4 @@ git merge first-lesson
 ```
 
 ### What will you do if branch conflict?
-#### Discuss it with senior engineer
+> Discuss it with senior engineer
