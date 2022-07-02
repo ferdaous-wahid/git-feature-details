@@ -1,5 +1,5 @@
 # git-feature-details
-## About git branch and feature
+## About git branch and feature ##
 ### How many branch we have?
 ##### git branch
 #### git pull before do anything
