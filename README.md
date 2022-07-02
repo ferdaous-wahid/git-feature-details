@@ -1,4 +1,4 @@
-# git-feature-details
+# git-feature-details serially
 ## About git branch and feature ##
 ### How many branch we have?
 ### How to switch branch?
