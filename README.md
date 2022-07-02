@@ -1,7 +1,7 @@
 # git-feature-details
-<h1>About git branch and feature</h1>
-  <h5>How many branch we have?</h5>
-  <p>git branch</p>
+###About git branch and feature
+####How many branch we have?
+#####git branch
   <p>git pull before do anything</p>
   <h5>How to switch branch?</h5>
   <p>git checkout branch-name</p>
