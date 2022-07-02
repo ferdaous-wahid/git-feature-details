@@ -1,7 +1,7 @@
 # git-feature-details
 ## About git branch and feature ##
 ### How many branch we have?
-##### git branch
+```git branch```
 #### git pull before do anything
 ### How to switch branch?</h5>
 #### git checkout branch-name
