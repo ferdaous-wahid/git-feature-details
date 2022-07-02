@@ -10,10 +10,10 @@
 git branch
 git pull before do anything
 git checkout branch-name
-git checkout -b first-lesson
+git checkout -b branch-name
 git status
 git checkout main
-git merge first-lesson
+git merge branch-name
 ```
 
 ### What will you do if branch conflict?
